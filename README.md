@@ -3,7 +3,7 @@
 ## AIM:
 To implement encryption and decryption using RSA algorithm.
  
-ALGORITHM:
+## ALGORITHM:
 * Select 2 prime numbers p and q.
 * Calculate n and pi(n).
 * Choose small number e.
